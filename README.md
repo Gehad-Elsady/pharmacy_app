@@ -1,16 +1,20 @@
-# pharmacy_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (91)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/d810795a-c783-4f79-9364-ee205524e38c)
+![Screenshot (90)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/2fee1435-c301-44b3-bb25-4f0db071612a)
+![Screenshot (89)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/d09bb95a-0c75-44f1-a276-eb7486edb6c7)
+![Screenshot (88)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/e83109e8-0b1b-438e-b3fe-3e678c94f61c)
+![Screenshot (87)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/fcac4ca2-ab9e-46a0-b837-d18c96df3d17)
+![Screenshot (106)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/2b1c4147-49ba-403c-adbf-292cd5f7d27c)
+![Screenshot (105)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/61f86eee-5a22-4278-81b7-f5253c9e0b38)
+![Screenshot (104)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/7ca56228-34cf-440b-b061-fd388105c058)
+![Screenshot (103)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/56bae6a2-2ecc-407b-a67f-5723eb18526a)
+![Screenshot (102)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/cc71d4f6-47c7-42ff-95ca-25818e67f37b)
+![Screenshot (101)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/e4d68387-4ba3-4d46-b0e7-c94a73df940e)
+![Screenshot (100)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/99af16a2-8215-4911-b364-44c1b735ec94)
+![Screenshot (99)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/35cc9dc1-c6a6-463f-9073-88ca4e7d58ed)
+![Screenshot (98)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/4a8c03f0-2be0-4233-bc25-8903dacc69b1)
+![Screenshot (97)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/9a01d933-56de-40e6-9adf-216435ec502b)
+![Screenshot (96)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/bfda48a5-76e7-4a7d-a3ef-3feb60635776)
+![Screenshot (95)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/8c759ab1-562c-40f4-a13d-0c514e77593d)
+![Screenshot (94)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/cb97aa7a-b28b-45e7-9fd5-4749f5526b87)
+![Screenshot (93)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/af42b8cd-c3b2-4f52-b928-214cdf9d6ce4)
+![Screenshot (92)](https://github.com/Gehad-Elsady/pharmacy_app/assets/117448563/1da8a7f7-9ac4-46bf-b3cd-06ff3ac3695c)
